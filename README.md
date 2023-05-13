@@ -46,7 +46,7 @@ In the node modules we will find the necesary modules for the project to run. Be
 In the public folder you'll find the public assets that the apps needs, like public images, logos and others.
 In the src folder you'll find the source code of the application. Here will strcuture the diferent modules that we will be creating. The basic module is called App.tsx this is our initial module.
 
-Outside of the folder you'll find the index.html which is the base template of the application. Inside this file you'll find a '<div>' with an id root. This root is where all the components are going to be inserted.
+Outside of the folder you'll find the index.html which is the base template of the application. Inside this file you'll find a '&lt;div>' with an id root. This root is where all the components are going to be inserted.
 
 
 ## Creating our first module
