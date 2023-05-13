@@ -57,7 +57,7 @@ Outside of the folder you'll find the index.html which is the base template of t
   
 <img width="807" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/f94eb7e0-3d2c-4711-a314-5a84218f5ea4">
   
-- Go to https://babeljs.io/ and put '<h1> Hello World </h1> and check the javascript generated code.
+- Go to https://babeljs.io/ and put '&lt;h1> Hello World &lt;/h1> and check the javascript generated code.
   
 ## Using our module
 
