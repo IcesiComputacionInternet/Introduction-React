@@ -40,7 +40,8 @@ Instead of using Create react app, we will be using Vite.
 
 Structure of the project.
 
-<img width="355" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/cbda3259-543a-4edd-bc22-d8fbccfaa4fe">
+<img width="305" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/f59cfa1e-5f87-4aad-b418-3b214208764c">
+
 
 In the node modules we will find the necesary modules for the project to run. Be sure not to upload this folder to a repo.
 In the public folder you'll find the public assets that the apps needs, like public images, logos and others.
@@ -55,7 +56,8 @@ Outside of the folder you'll find the index.html which is the base template of t
 
 - Put inside the following code:
   
-<img width="807" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/f94eb7e0-3d2c-4711-a314-5a84218f5ea4">
+<img width="834" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/99873ad7-13fc-44ad-94bf-9098e014a50c">
+
   
 - Go to https://babeljs.io/ and put '&lt;h1> Hello World &lt;/h1> and check the javascript generated code.
   
@@ -63,7 +65,7 @@ Outside of the folder you'll find the index.html which is the base template of t
 
 - Go to the App.tsx and delete all the content.
 
-<img width="483" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/69f6316b-54b4-4ef4-a64b-ec3f0582f4ee">
+<img width="572" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/21a91c65-f60c-400d-9c5c-5e6b00a4b565">
 
 - Run the app with 'npm run dev' and check the changes.
   
@@ -73,10 +75,11 @@ Outside of the folder you'll find the index.html which is the base template of t
  - Go to the terminal and run 'npn install boostrapt@5.2.3'
  - Go to main.tsx and replace the import of css with the "import 'bootstrap/dist/css/bootstrap.css'"
   
-  <img width="577" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/e795f809-35e6-42b5-8c92-7cfbb7203ec6">
+  <img width="562" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/0db9244d-144e-4028-ad45-c0a186b3ea40">
+
 
  - Edit Message.tsx with the following code
   
-  <img width="841" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/fd7f2dc6-5df5-4cb0-9553-8ccac01504f3">
+  <img width="856" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/54ec5c85-7377-4423-80a0-e8a858517dc8">
 
  - Check the changes and see how we can add classNames to add bootstrap clases and make our clase use CSS
