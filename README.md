@@ -83,3 +83,14 @@ Outside of the folder you'll find the index.html which is the base template of t
   <img width="856" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/54ec5c85-7377-4423-80a0-e8a858517dc8">
 
  - Check the changes and see how we can add classNames to add bootstrap clases and make our clase use CSS
+
+
+## React Props
+
+Props are properties that we can pass to a react component for example we can pass a custom message from the App.tsx
+
+<img width="457" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/6be1396d-f14e-408e-90ae-b20f5c325ab8">
+
+<img width="513" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/d10e9153-f2ab-40db-843d-86a43d991898">
+
+
