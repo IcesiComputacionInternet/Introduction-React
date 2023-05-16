@@ -115,6 +115,9 @@ the second parameter in the map give us the index of the item.
 
 <img width="618" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/5867392d-2f11-40c1-9344-694a6a802418">
 
+Then add axios to execute a request
+
+<img width="358" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/e8b110fd-6642-4406-975f-911ed103c977">
 
 
 
