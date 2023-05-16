@@ -93,4 +93,22 @@ Props are properties that we can pass to a react component for example we can pa
 
 <img width="513" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/d10e9153-f2ab-40db-843d-86a43d991898">
 
+## React state
+
+First we're going to define a new component called ListGroup.
+
+<img width="614" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/54b4b628-deec-4474-ad31-ba2034ec7527">
+
+Now lets add some functionality.
+
+useState can be decomposed into two values, the actual value and a function that modifies the value.
+
+we use onClick to set the new value.
+
+the second parameter in the map give us the index of the item.
+
+<img width="572" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/164efa31-f6d1-4dcf-b7c0-4bb7719d0d8e">
+
+
+
 
