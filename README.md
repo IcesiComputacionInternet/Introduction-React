@@ -119,5 +119,10 @@ Then add axios to execute a request
 
 <img width="358" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/e8b110fd-6642-4406-975f-911ed103c977">
 
+Router
+
+<img width="593" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/1cedb14a-1308-4411-9489-3f76d8401d58">
+
+
 
 
