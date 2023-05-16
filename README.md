@@ -109,6 +109,12 @@ the second parameter in the map give us the index of the item.
 
 <img width="572" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/164efa31-f6d1-4dcf-b7c0-4bb7719d0d8e">
 
+## Login component
+
+<img width="484" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/4294deb4-0484-4ff1-9995-3e9c1850c432">
+
+<img width="618" alt="image" src="https://github.com/IcesiComputacionInternet/Introduction-React/assets/17294264/5867392d-2f11-40c1-9344-694a6a802418">
+
 
 
 
